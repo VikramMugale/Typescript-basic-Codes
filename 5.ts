@@ -3,6 +3,7 @@ function Fibonacci(No1 : number) : void
    var a : number = 0
    var b : number = 1
    var sum : number = 0
+   console.log(a)
    console.log(b)
    while(sum<No1)
    {
