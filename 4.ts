@@ -3,7 +3,7 @@ function ChkPrime(No1 : number) : number
     var Cnt : number = 0
     var A : number = 0
    
-    for(Cnt=1;Cnt<=11;Cnt++)
+    for(Cnt=1;Cnt<=No1;Cnt++)
     {
         if(No1%Cnt==0)
         {
